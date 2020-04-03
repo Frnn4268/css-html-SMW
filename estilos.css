@@ -1,0 +1,48 @@
+body {
+    
+    background-color: blanchedalmond;
+}
+
+img{
+    display:block;
+    margin-left: 575px;
+    margin-right: 0px;
+    width: 750px;
+     border: 10px double gray; 
+    }
+
+ video{
+    display:block;
+    margin:auto;
+    border: 10px double gray;
+    height: 470px;
+    width: 510px;
+    }
+
+h1{
+    text-align: center;
+    color: red;
+    width: 1900px;
+    font-style: italic;  
+    border: 5px blue double; 
+    }
+h3{
+    color: blue;
+    width: 350px;
+    font-style: italic;
+    text-align: center;
+    }
+
+h4{
+    color: Green;
+    width: 350px;
+    font-style: italic;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    color: gray;
+    width: center;
+    font-style: initial;   
+}
